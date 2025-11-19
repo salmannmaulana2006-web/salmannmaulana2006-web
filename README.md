@@ -1,7 +1,4 @@
-## Hi there 👋 nama saya shalman maulana cahel
-
-<!-
-**salmannmaulana2006-web/salmannmaulana2006-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 nama saya shalman maulana c
 
 Here are some ideas to get you started:
 # 💫 About Me:
