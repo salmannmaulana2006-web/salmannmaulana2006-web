@@ -15,10 +15,3 @@ Nama saya Shalman. Saat ini saya sedang belajar komputer dan ngoding karena saya
 
 ---
 [![](https://visitcount.itsvg.in/api?id=salmannmaulana2006-web&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.
--->
-<ul>
-  <li><a herf="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/a></li>
-    <li>[![Facebook](<a herf="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]"/a>(https://facebook.com/shalman shalman)</li>
-</ul>
