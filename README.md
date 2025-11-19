@@ -1,7 +1,6 @@
-## Hi there 👋 nama saya shalman maulana c
+## Hi there 👋 nama saya shalman maulana cahel
 
-Here are some ideas to get you started:
-# 💫 About Me:
+# About Me:
 Nama saya Shalman. Saat ini saya sedang belajar komputer dan ngoding karena saya tertarik dengan dunia teknologi. Saya adalah pribadi yang mudah beradaptasi dan senang mencoba hal-hal baru.<br><br>Hobi saya adalah bermain game dan menonton film, yang sering memberi saya inspirasi dan ide segar.<br><br>Ke depannya, saya ingin bekerja di bidang komputer yang kreatif, di mana saya bisa terus berkembang dan menghasilkan karya yang bermanfaat.
 
 
