@@ -14,7 +14,11 @@ Nama saya Shalman. Saat ini saya sedang belajar komputer dan ngoding karena saya
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salmannmaulana2006-web&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=salmannmaulana2006-web&icon=6&color=0)](https://visitcount.itsvg.in)>
+[![](https://visitcount.itsvg.in/api?id=salmannmaulana2006-web&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.
 -->
+<ul>
+  <li><a herf="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/a></li>
+    <li><a herf="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/a></li>
+</ul>
